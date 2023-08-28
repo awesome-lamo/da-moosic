@@ -1,5 +1,4 @@
- 
-
+ PART 2 OUT NOW https://github.com/awesome-lamo/da-funi-moosic-2-drug-edition
 
 > Open this page at [https://awesome-lamo.github.io/da-moosic/](https://awesome-lamo.github.io/da-moosic/)
 
